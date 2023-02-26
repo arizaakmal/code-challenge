@@ -28,6 +28,7 @@ function likes($names)
 }
 */
 
+// Alternative Code
 function likes($names)
 {
     $count = count($names);
